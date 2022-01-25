@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alitu\\source\\repos\\ShopApp\\ShopApp.WebUI\\ShopApp.WebUI.csproj": {}
+    "C:\\Users\\alitu\\OneDrive\\Masaüstü\\ConsoleCalısma\\ShopApp\\ShopApp.WebUI\\ShopApp.WebUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alitu\\source\\repos\\ShopApp\\ShopApp.WebUI\\ShopApp.WebUI.csproj": {
+    "C:\\Users\\alitu\\OneDrive\\Masaüstü\\ConsoleCalısma\\ShopApp\\ShopApp.WebUI\\ShopApp.WebUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alitu\\source\\repos\\ShopApp\\ShopApp.WebUI\\ShopApp.WebUI.csproj",
+        "projectUniqueName": "C:\\Users\\alitu\\OneDrive\\Masaüstü\\ConsoleCalısma\\ShopApp\\ShopApp.WebUI\\ShopApp.WebUI.csproj",
         "projectName": "ShopApp.WebUI",
-        "projectPath": "C:\\Users\\alitu\\source\\repos\\ShopApp\\ShopApp.WebUI\\ShopApp.WebUI.csproj",
+        "projectPath": "C:\\Users\\alitu\\OneDrive\\Masaüstü\\ConsoleCalısma\\ShopApp\\ShopApp.WebUI\\ShopApp.WebUI.csproj",
         "packagesPath": "C:\\Users\\alitu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alitu\\source\\repos\\ShopApp\\ShopApp.WebUI\\obj\\",
+        "outputPath": "C:\\Users\\alitu\\OneDrive\\Masaüstü\\ConsoleCalısma\\ShopApp\\ShopApp.WebUI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
