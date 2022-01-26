@@ -52,7 +52,7 @@ namespace ShopApp.WebUI
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Product}/{action=Index}/{id?}" //id olsun ya da olmasýn url geçerli olur!
+                    pattern: "{controller=Home}/{action=Index}/{id?}" //id olsun ya da olmasýn url geçerli olur!
                     );
             });  
             

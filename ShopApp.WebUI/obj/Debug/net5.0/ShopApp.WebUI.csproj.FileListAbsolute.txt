@@ -78,3 +78,4 @@ C:\Users\alitu\OneDrive\Masaüstü\ConsoleCalısma\ShopApp\ShopApp.WebUI\obj\Deb
 C:\Users\alitu\OneDrive\Masaüstü\ConsoleCalısma\ShopApp\ShopApp.WebUI\obj\Debug\net5.0\ShopApp.WebUI.pdb
 C:\Users\alitu\OneDrive\Masaüstü\ConsoleCalısma\ShopApp\ShopApp.WebUI\obj\Debug\net5.0\ShopApp.WebUI.genruntimeconfig.cache
 C:\Users\alitu\OneDrive\Masaüstü\ConsoleCalısma\ShopApp\ShopApp.WebUI\obj\Debug\net5.0\ShopApp.WebUI.csproj.CopyComplete
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleCalısma\ShopApp\ShopApp.WebUI\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
