@@ -83,3 +83,4 @@ C:\Users\alitu\OneDrive\Masaüstü\ConsoleCalısma\ShopApp\ShopApp.WebUI\obj\Deb
 C:\Users\alitu\OneDrive\Masaüstü\ConsoleCalısma\ShopApp\ShopApp.WebUI\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
 C:\Users\alitu\OneDrive\Masaüstü\ConsoleCalısma\ShopApp\ShopApp.WebUI\obj\Debug\net5.0\Razor\Views\Product\Detail.cshtml.g.cs
 C:\Users\alitu\OneDrive\Masaüstü\ConsoleCalısma\ShopApp\ShopApp.WebUI\obj\Debug\net5.0\Razor\Views\Product\List.cshtml.g.cs
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleCalısma\ShopApp\ShopApp.WebUI\obj\Debug\net5.0\Razor\Views\Home\MyView.cshtml.g.cs

@@ -19,5 +19,10 @@ namespace ShopApp.WebUI.Controllers
         {
             return View();
         }
+
+        public IActionResult Contact()
+        {
+            return View("myView"); //cshtml dosyasının adının myview olacağını söyledim!
+        }
     }
 }
