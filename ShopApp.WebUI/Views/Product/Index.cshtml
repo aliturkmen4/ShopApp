@@ -1,4 +1,7 @@
-﻿<!DOCTYPE html>
+﻿@model Product 
+@*_viewimportla yolu tanımladığım için product yazmam tanıması için yeterli oluyor!*@
+
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
@@ -7,6 +10,21 @@
     <title>Product</title>
 </head>
 <body>
-    product/index
+    @*<h1>@ViewData["Category"]</h1>
+        <h2>@(((Product)ViewData["Product"]).Name)</h2>
+        <h2>@(((Product)ViewData["Product"]).Price)</h2>
+        <h2>@(((Product)ViewData["Product"]).Description)</h2>*@
+
+    @*viewdata kullanırsan cast işlemini yapmak zorundasın!!!!*@
+
+    @*<h1>@ViewBag.Category</h1>
+        <h2>@ViewBag.Product.Name</h2>
+        <h2>@ViewBag.Product.Price</h2>
+        <h2>@ViewBag.Product.Description</h2>*@
+
+    <h1>@ViewBag.Category</h1>
+    <h2>@Model.Name</h2>
+    <h2>@Model.Price</h2>
+    <h2>@Model.Description</h2>
 </body>
 </html>        
