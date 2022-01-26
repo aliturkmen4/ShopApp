@@ -1,4 +1,5 @@
-﻿<!DOCTYPE html>
+﻿@model ShopApp.WebUI.Models.Product
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
@@ -7,6 +8,8 @@
     <title>Product</title>
 </head>
 <body>
-    product/details
+    <p>Ürün adı:@Model.Name</p>
+    <p>Ürün fiyatı:@Model.Price</p>
+    <p>Ürün açıklaması:@Model.Description</p>
 </body>
 </html>        
