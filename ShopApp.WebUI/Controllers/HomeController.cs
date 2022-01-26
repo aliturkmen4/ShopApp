@@ -11,6 +11,12 @@ namespace ShopApp.WebUI.Controllers
         //localhost:5000/home/index
         public IActionResult Index() //action methodu
         {
+            int saat=DateTime.Now.Hour; //serverın saat bilgisini aldım!
+
+            ViewBag.Greeting= saat > 12 ? "İyi Günler" : "Günaydın"; //saat 12 den büyükse iyi günler, küçükse günaydın demesini sağladım! ViewBag bilgi taşımak için kullanılabilir!
+
+            ViewBag.UserName = "Ali";
+             
             return View();
         }
 
