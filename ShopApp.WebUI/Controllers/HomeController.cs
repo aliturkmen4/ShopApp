@@ -9,15 +9,15 @@ namespace ShopApp.WebUI.Controllers
     public class HomeController:Controller //aspnetcore.mvc adresinden aldım controllerı
     {
         //localhost:5000/home/index
-        public string Index() //action methodu
+        public IActionResult Index() //action methodu
         {
-            return "home/index";
+            return View();
         }
 
         //localhost:5000/home/about
-        public string About() //action methodu
+        public IActionResult About() //action methodu
         {
-            return "home/about";
+            return View();
         }
     }
 }

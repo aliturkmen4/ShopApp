@@ -8,15 +8,15 @@ namespace ShopApp.WebUI.Controllers
 {
     public class ProductController:Controller
     {
-        public string Index() //action methodu
+        public IActionResult Index() //action methodu
         {
-            return "product/index";
+            return View();
         }
 
         //localhost:5000/product/list
-        public string List() //action methodu
+        public IActionResult List() //action methodu
         {
-            return "product/list";
+            return View();
         }
 
         //localhost:5000/product/details
